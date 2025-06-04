@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![echo0d's GitHub stats](https://github-readme-stats.vercel.app/api?username=echo0d&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echo0d&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echo0d&layout=compact&hide=powershell)
 
 ![echo0d's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=echo0d&layout=compact&hide_border=true)
